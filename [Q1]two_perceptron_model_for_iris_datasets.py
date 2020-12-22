@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1fGwTIytNLYTInu6-BHUSwoYcuCDiMFiF
 
 ```
-Dharamvir yadav(MT19CPS012)
+
 3class classifier using two perceptron(on IRIS datasets)
 
 ```
